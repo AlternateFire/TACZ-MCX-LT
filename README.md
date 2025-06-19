@@ -8,4 +8,13 @@ TACZ Add-on which implements a rifle inspired by Sig Sauer's 3rd Generation MCX 
 This mod aims to replicate the weapon platform in the TAC:Zero mod with some additional attachments
 to fit the asthetic of the rifle.
 
+This mod seeks to add a highly detailed representation of the rifle into Minecraft.
+Mod includes: 
+
+Weapons: 
+1. MCX LT, 11.5 Inch Barrel
+
+Sights: 
+1. Romeo8T
+
 This is just a mod add-on for TAC:Zero, all copyrights belong to their respective owners. 
