@@ -17,4 +17,11 @@ Weapons:
 Sights: 
 1. Romeo8T
 
+Stocks:
+1. Strike Industries Stock
+
+Supressors/Barrel: 
+1. SOCOM 3-prong flash hider
+2. SOCOM RC3 Supressor
+
 This is just a mod add-on for TAC:Zero, all copyrights belong to their respective owners. 
