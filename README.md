@@ -13,12 +13,18 @@ Mod includes:
 
 Weapons: 
 1. MCX LT, 11.5 Inch Barrel
+2. MCX LT, SURG Kit
+3. M4A1 Lower, SURG Kit
 
 Sights: 
 1. Romeo8T
+2. Nightforces ATACR
+3. 
 
 Stocks:
 1. Strike Industries Stock
+2. SIG MCX Spear LT Stock Gen.1
+3. SIG Folding/Adjustable Stock
 
 Supressors/Barrel: 
 1. SOCOM 3-prong flash hider
